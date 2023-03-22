@@ -1,0 +1,24 @@
+.form-container, .login-form {
+    display: flex;
+     flex-direction: column;
+ 
+   }
+   label{
+     text-align: left;
+     padding: 0.25rem 0rem;
+   }
+ 
+   input{
+     padding: 1rem;
+     border: none;
+     border-radius: 4px;
+     margin: 0.5rem 0rem;
+   }
+ button{
+   border: none;
+   border-radius: 4px;
+   padding: 10px;
+   background-color: #01d28e;
+   cursor : pointer;
+ 
+ }
